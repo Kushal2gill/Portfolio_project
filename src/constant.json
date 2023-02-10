@@ -1,0 +1,43 @@
+{
+  "experiences": [
+    {
+      "company": "ABC",
+      "link": "/",
+      "tittle": "Software Developer",
+      "duration": "April 2022 - Feb 2023",
+      "desc": ["asd sdf sdfg sdvbf svd sdvsb sdb ", "dfg hjk vb sdfg rt erth"]
+    },
+    {
+      "company": "cdf",
+      "link": "/",
+      "tittle": " Senior Software Developer",
+      "duration": "April 2022 - Feb 2023",
+      "desc": ["asd sdf sdfg sdvbf svd sdvsb sdb ", "dfg hjk vb sdfg rt erth"]
+    },
+    {
+      "company": "fgh",
+      "link": "/",
+      "tittle": "Software Developer",
+      "duration": "April 2022 - Feb 2023",
+      "desc": ["asd sdf sdfg sdvbf svd sdvsb sdb ", "dfg hjk vb sdfg rt erth"]
+    }
+  ],
+  "projects": [
+    {
+      "tittle": "Quizz App",
+      "image": "https://cdn.create.vista.com/downloads/b929ef9d-8cc4-4b70-9d69-1a04f500599b_450.jpeg",
+      "desc": "sd dfg sdfg dfgh dfg ",
+      "skills": ["React", "Express", "MongoDB"],
+      "github": "/",
+      "link": "/"
+    },
+    {
+      "tittle": "Ecommerce App",
+      "image": "https://www.templateshub.net/uploads/1555657052%20limupa-digital-products-store-ecommerce-min.png",
+      "desc": "sd dfg sdfg dfgh dfg ",
+      "skills": ["Vue", "Express", "MongoDB"],
+      "github": "/",
+      "link": "/"
+    }
+  ]
+}
